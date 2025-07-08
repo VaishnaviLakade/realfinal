@@ -1,0 +1,41 @@
+.dashboard-container {
+  display: flex;
+  min-height: 100vh;
+}
+
+.sidebar {
+  width: 240px;
+  background-color: #343a40;
+  color: white;
+  padding: 20px;
+}
+
+.sidebar h3 {
+  margin-bottom: 30px;
+}
+
+.sidebar ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.sidebar li {
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 6px;
+  margin-bottom: 10px;
+  transition: background 0.2s;
+}
+
+.sidebar li:hover,
+.sidebar li.active {
+  background-color: #007bff;
+}
+
+.content-area {
+  flex: 1;
+  padding: 30px;           /* 30px is enough spacing */
+  background: #f9f9f9;     /* Light neutral color */
+  overflow-y: auto;
+}
+

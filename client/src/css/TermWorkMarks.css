@@ -1,0 +1,80 @@
+.marks-wrapper {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centers horizontally */
+  justify-content: flex-start;
+  padding: 20px;
+}
+
+h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* Group dropdowns and button */
+.marks-form {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 30px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+/* Dropdowns and button style */
+.marks-form select,
+.marks-form button {
+  padding: 10px 15px;
+  font-size: 16px;
+  min-width: 180px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Optional: hover effect for button */
+.marks-form button:hover {
+  background-color: #007bff;
+  color: white;
+  border: none;
+}
+
+/* Table styling */
+.termwork-table {
+  width: 90%;
+  max-width: 1000px;
+  border-collapse: collapse;
+  margin-top: 20px;
+  text-align: center;
+  background-color: #f9f9f9;
+}
+
+.termwork-table th,
+.termwork-table td {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.termwork-table th {
+  background-color: #e6e6e6;
+  font-weight: bold;
+}
+
+.actions {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.actions button {
+  padding: 10px 25px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.actions button:hover {
+  background-color: #0056b3;
+}

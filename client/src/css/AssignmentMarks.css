@@ -1,0 +1,60 @@
+.marks-wrapper {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centers horizontally */
+  justify-content: flex-start;
+  padding: 20px;
+}
+
+h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.marks-form {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 30px;
+  flex-wrap: wrap;
+  justify-content: center; /* Center the dropdowns and button */
+}
+
+.marks-form select,
+.marks-form button {
+  padding: 10px 15px;
+  font-size: 16px;
+  min-width: 180px;
+}
+
+.marks-table {
+  width: 90%;
+  max-width: 1000px;
+  border-collapse: collapse;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.marks-table th,
+.marks-table td {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.marks-table input {
+  width: 60px;
+  text-align: center;
+}
+
+.actions {
+  display: flex;
+  gap: 20px;
+  justify-content: center; /* Center the buttons */
+  flex-wrap: wrap;
+}
+
+.actions button {
+  padding: 10px 25px;
+  font-size: 16px;
+  cursor: pointer;
+}

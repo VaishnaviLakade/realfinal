@@ -1,0 +1,40 @@
+.marks-wrapper {
+  max-width: 900px;
+  margin: auto;
+  padding: 2rem;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+}
+
+.marks-form {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1.5rem;
+}
+
+select,
+button,
+input[type="number"] {
+  padding: 0.5rem;
+  font-size: 1rem;
+  margin: 0 0.5rem;
+}
+
+.marks-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.marks-table th,
+.marks-table td {
+  padding: 0.75rem;
+  text-align: center;
+  border: 1px solid #ccc;
+}
+
+.actions {
+  margin-top: 1.5rem;
+  display: flex;
+  justify-content: flex-end;
+  gap: 1rem;
+}
