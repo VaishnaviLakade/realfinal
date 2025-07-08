@@ -57,4 +57,21 @@ npm run dev
 Screenshots:
 
 
+1) LandingPage:
+
+   ![image](https://github.com/user-attachments/assets/9904742a-639f-4527-b296-8064f9951f2f)
+
+2) DashBoard:
+![image](https://github.com/user-attachments/assets/99b7f997-2022-4ed0-a917-61d8836dc4dd)
+
+3) UnitTest Marks Insertion:
+   ![image](https://github.com/user-attachments/assets/38464b0f-45ca-42f5-8c14-9eff854cf5bd)
+4) Attendence Marks
+![image](https://github.com/user-attachments/assets/a89a549a-2779-4f24-85e2-6758d0be910a)
+
+5) TermWork Calculation:
+![image](https://github.com/user-attachments/assets/25fad7d8-1175-4e06-8602-e0e60130bb43)
+
+6) Generated Pdf:
+![image](https://github.com/user-attachments/assets/7ef55e7f-4fa3-45b7-853c-8e941112fcdf)
 
