@@ -75,3 +75,12 @@ Screenshots:
 6) Generated Pdf:
 ![image](https://github.com/user-attachments/assets/7ef55e7f-4fa3-45b7-853c-8e941112fcdf)
 
+👩‍💻 Developer
+Vaishnavi Lakade
+B.E. Computer Engineering – PICT Pune
+
+🏆 General Secretary | Best Outgoing Student | IEEE Author | AWS Team Member
+
+🔗 GitHub
+
+📧 lakadevaishnavi26@gmail.com
